@@ -1,0 +1,2 @@
+1. Customize workspace (server, DB)
+2. Create tables: php artisan migrate
