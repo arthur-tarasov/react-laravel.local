@@ -1,2 +1,2 @@
-1. Customize workspace (server, DB)
+1. Customize workspace (server, composer install, DB)
 2. Create tables: php artisan migrate
